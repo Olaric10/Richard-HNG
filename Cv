@@ -1,0 +1,146 @@
+<DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type= "text/css" href="cv.css">
+<title>
+Olaric Resume
+</title>
+</head>
+<h1><center>OLADEJI,Richard</center></h1>
+<h2> <a href= "Rich.john890@gmail.com"><center>Rich.john890@gmail.com<center></a></h2>
+<h3><center>08170259113</center></h3>
+<body>
+<img src="fresh.jpg" alt="Olaric pic" style="background-color: lightblue">
+
+<div>Profile summary</div><hr>
+<p>
+Richard Oladeji is a graduate of Physics from the Federal University of Agriculture, Abeokuta. His majors in Physics has sharpened his ability to speak and write in a clear, articulate, and incisive manner, in addition to critical and logical thinking, he is a smart young professional with a strong ability to make knowledgeable decisions, examining thoroughly the consequences of various actions and generate ideas on a variety of problems.<br>
+Richard is seeking an opportunity to contribute his skills and experience in developing solutions for organizations towards achieving their goals and objectives.</p>
+ <div class="pu">Educational Qualification</div><hr>
+ <table >
+       
+       <tr>
+          <td class="p">Federal University of Agriculture, Abeokuta</td>
+          <td>BSc. in Physics</td> 
+          <td>Feb,2020</td>
+         </tr>
+      <tr>
+       <td class="p">
+        Methodist High School, Arigbajo</td>
+        <td>Senior Secondary School Certificate Examination </td>
+        <td>June, 2014.</td>
+       </tr>
+    </table><br>
+       <div>WORK EXPERIENCE</div><hr>
+       
+       <table>
+       <tr>
+          <td class="aa">
+Gloryland Private Academy, Pakoto Ogun State
+ </td>
+          <td class="bb">  <br>
+<ul>Class Teacher
+<li>I was responsible for Coordinating the volunteers for running the campaign programme against examination malpractice</li>
+<li>Assisted in making sure that rules and regulations are strictly adhered to.</li></ul>
+
+  </td> 
+          <td class="cc">   
+Aug 2014 – Dec 2016
+</td>
+      <tr>
+       <td class="aa">Yale Foods, Ibadan</td>
+        <td class="bb">   
+Resuscitation Officer
+<ul><li>
+I was responsible for the request of all raw materials needed for day-to-day production thus working within a multi-dimensional team and riving the achievement of the organization’s objectives.</li></ul>
+</td>
+        <td class="cc">  
+Nov 2018 – Apr 2019
+</td>
+       </tr>
+   </table>
+   <br>
+  <div> EXTRA-CURRICULAR ACHIEVEMENTS</div><hr>
+   <table>
+   <tr>
+   <td>   <br>
+In addition to my academic activities, I participated in the following extra-curricular activities:<ul>
+<li>I led group discussions on various social issues e.g. teen intervention, effect of information technology in the lifestyle of the 20th century youth, etc.</li>
+
+<li>I ran an online media platform while at the University tagged “LET’S TALK FUNAAB”, where we discussed matters pertaining to our studentship as Funaabites</li>
+<li>I was a member of LIWE, a spoken words poetry group in FUNAAB, and performed in concerts.</li></ul>
+ </td>
+   </tr>
+   </table><br>
+ <div>   SKILLS & STRENGTHS</div> <hr>
+ <table>
+ <tr>
+ <td>
+<br><ul>
+ <li>Written and verbal communication skills (built up through essays, presentations and coursework during my time at school)</li>
+<li>Creative Writing.</li>
+<li>Self-motivation and ability to take the initiative</li>
+<li>Ability to work well under pressure</li>
+<li>I.T. skills including experience in Microsoft Office (Word, PowerPoint) and Web design</li>
+<li>Able to take on responsibility (given extra responsibilities at school in the form of coordinating a unit in the fellowship)</li>
+<li>Quick learner, keen to learn and improve skills</li>
+<li>Teamwork skills</li>
+</ul></td>
+ </tr>
+ </table><br>
+ <div> HOBBIES </div><hr>
+ 
+ <table>
+ <tr>
+ <td colspan="4">
+ <ul><br>
+ <li>Coding</li>
+ <li>Poetry</li>
+<li>Travelling and visitation</li></ul>
+ </td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+ </table><br>
+ <div>BIO DATA </div><hr>
+ <table>
+ <tr>
+ <td>      </td>
+ <td>   sex   </td>
+ <td>   male   </td>
+ <td>      </td>
+ <td>      </td>
+ <td>      </td>
+ <td>      </td>
+ </tr>
+ <tr>
+ <td>      </td>
+ <td>   age   </td>
+ <td>   20years  </td>
+ <td>      </td>
+ <td>      </td>
+ <td>      </td>
+ <td>      </td>
+ <td>      </td>
+ </tr>
+ <tr>
+ <td>      </td>
+ <td>    Nationality  </td>
+ <td>    Nigerian  </td>
+ </tr>
+ <tr>
+ <td>      </td>
+ <td>    languages  </td>
+ <td>     English and Yoruba </td>
+ </tr>
+ </table><br>
+ <div> REFRENCES</div><hr>
+ <center> Available on request</center>
+ 
+</body>
+</html>
